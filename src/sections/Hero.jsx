@@ -31,7 +31,7 @@ export default function Hero() {
           </p>
           <h1 className="font-serif text-5xl md:text-6xl lg:text-7xl text-charcoal leading-tight">
             Leticia <br className="md:hidden" />
-            <span className="italic text-blush-dark">Gonçalves</span>
+            <span className="italic text-blush-dark">Batista</span>
           </h1>
           <p className="font-sans text-sm text-charcoal-soft max-w-md leading-relaxed mt-2">
             Mestranda em Ciência da Computação pela UFRGS · Java · Python · React
