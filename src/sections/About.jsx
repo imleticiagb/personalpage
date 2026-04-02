@@ -11,7 +11,7 @@ const timeline = [
     period: 'Abr 2025 – Dez 2025',
     title: 'Estagiária em Automação de Processos',
     place: 'The X-Lab Brasil',
-    detail: 'Automação com Google Apps Script e VBA · Dashboards em Excel',
+    detail: 'Automação com Google Apps Script e VBA · Dashboards em Excel · Otimização de processos manuais por meio da automação de tarefas.',
   },
   {
     period: 'Ago 2024 – Dez 2024',
