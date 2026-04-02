@@ -15,8 +15,8 @@ const projects = [
     description:
       'Artigo publicado no WIT 2025 sobre protagonismo feminino em STEM através de oficinas de reconstrução de jogos digitais, com meninas da rede pública de ensino em Jataí-GO.',
     tags: ['Pesquisa', 'STEM', 'Educação', 'Feminismo'],
-    repoUrl: 'https://doi.org/10.5753/wit.2025.8994',
-    liveUrl: null,
+    repoUrl: null,
+    liveUrl: 'https://doi.org/10.5753/wit.2025.8994',
   },
   {
     title: 'NLW Expert — HTML/CSS/JS',
