@@ -18,6 +18,14 @@ const projects = [
     repoUrl: null,
     liveUrl: 'https://doi.org/10.5753/wit.2025.8994',
   },
+   {
+    title: 'Fila Virtual',
+    description:
+      'Aplicação full stack de fila virtual para transporte universitário, com API em Node.js e Express integrada ao PostgreSQL, e front-end em React que permite cadastro, escolha de trajeto e acompanhamento da posição na fila em tempo real.',
+    tags: ['Ônibus', 'Fila', 'Banco de Dados', 'React.js', 'Node.js', 'Express'],
+    repoUrl: 'https://github.com/imleticiagb/projetoDW',
+    liveUrl: null,
+  },
   {
     title: 'NLW Expert — HTML/CSS/JS',
     description:
